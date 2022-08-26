@@ -1,0 +1,15 @@
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/bin/Debug/net6.0/Ex002
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/bin/Debug/net6.0/Ex002.deps.json
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/bin/Debug/net6.0/Ex002.runtimeconfig.json
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/bin/Debug/net6.0/Ex002.dll
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/bin/Debug/net6.0/Ex002.pdb
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/Ex002.csproj.AssemblyReference.cache
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/Ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/Ex002.AssemblyInfoInputs.cache
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/Ex002.AssemblyInfo.cs
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/Ex002.csproj.CoreCompileInputs.cache
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/Ex002.dll
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/refint/Ex002.dll
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/Ex002.pdb
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/Ex002.genruntimeconfig.cache
+/Users/pavelipro/Documents/!Обучение GB/MPV/Seminar_03/Ex002/obj/Debug/net6.0/ref/Ex002.dll

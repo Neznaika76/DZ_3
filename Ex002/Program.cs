@@ -21,13 +21,9 @@ void WorkArray(int[] Point1, int[] Point2)
     {
         double[] x = new double[3];
         for(int i=0; i<Point1.Length; i++)
-            {
-                x[i] = Math.Abs(Point1[i]-Point2[i]);
-            }
+            x[i] = Math.Abs(Point1[i]-Point2[i]);
         for(int i=0; i<Point1.Length-1; i++)
-            {
-                x[i+1]=Math.Sqrt(x[i]*x[i]+x[i+1]*x[i+1]);
-            }
+            x[i+1]=Math.Sqrt(x[i]*x[i]+x[i+1]*x[i+1]);
         Console.WriteLine("Расстояние между точками " +x[2]);
        
     }
